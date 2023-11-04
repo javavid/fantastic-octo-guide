@@ -1,0 +1,8 @@
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb

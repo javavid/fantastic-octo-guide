@@ -1,0 +1,8 @@
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\bin\Debug\DelegadosPredicadosLambdas.exe.config
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\bin\Debug\DelegadosPredicadosLambdas.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\bin\Debug\DelegadosPredicadosLambdas.pdb
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\DelegadosPredicadosLambdas\obj\Debug\DelegadosPredicadosLambdas.pdb

@@ -1,0 +1,8 @@
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\bin\Debug\CollectionsLinkedlist.exe.config
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\bin\Debug\CollectionsLinkedlist.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\bin\Debug\CollectionsLinkedlist.pdb
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\obj\Debug\CollectionsLinkedlist.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\obj\Debug\CollectionsLinkedlist.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\obj\Debug\CollectionsLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\obj\Debug\CollectionsLinkedlist.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsLinkedlist\obj\Debug\CollectionsLinkedlist.pdb

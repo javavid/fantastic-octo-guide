@@ -1,0 +1,8 @@
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\bin\Debug\CollectionsDictionary.exe.config
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\bin\Debug\CollectionsDictionary.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\bin\Debug\CollectionsDictionary.pdb
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\obj\Debug\CollectionsDictionary.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\obj\Debug\CollectionsDictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\obj\Debug\CollectionsDictionary.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\obj\Debug\CollectionsDictionary.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsDictionary\obj\Debug\CollectionsDictionary.pdb

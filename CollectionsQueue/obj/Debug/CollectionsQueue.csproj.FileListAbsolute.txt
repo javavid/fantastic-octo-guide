@@ -1,0 +1,8 @@
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\bin\Debug\CollectionsQueue.exe.config
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\bin\Debug\CollectionsQueue.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\bin\Debug\CollectionsQueue.pdb
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\obj\Debug\CollectionsQueue.csproj.AssemblyReference.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\obj\Debug\CollectionsQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\obj\Debug\CollectionsQueue.csproj.CoreCompileInputs.cache
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\obj\Debug\CollectionsQueue.exe
+C:\Users\saram\OneDrive\Documentos\curso_pildorasC#1.2\CollectionsQueue\obj\Debug\CollectionsQueue.pdb
